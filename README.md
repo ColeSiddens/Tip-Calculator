@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=<https://media.giphy.com/media/euj97E0rg4StKS9vAG/giphy.gif>
+<img src='https://media.giphy.com/media/euj97E0rg4StKS9vAG/giphy.gif'>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
